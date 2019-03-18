@@ -128,8 +128,8 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Ibtastic"
     - label: "Instagram"
-      icon: "fab fa-fw fa-linkedin-square"
-      url: "https://www.linkedin.com/in/ibtesam-ahmed-22b911110/"
+      icon: "fab fa-fw fa-instagram"
+      #url: "https://www.linkedin.com/in/ibtesam-ahmed-22b911110/"
 
 # Site Footer
 footer:
