@@ -4,7 +4,7 @@ permalink: /data-science/
 title: "Machine and Deep Learning Posts by tags"
 author_profile: true  
 header:
-  image: "/img/bg.png"
+  image: "/img/background.png"
 ---
 
 {% include base_path %}
